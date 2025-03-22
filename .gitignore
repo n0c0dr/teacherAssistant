@@ -1,0 +1,17 @@
+.start
+*.env
+
+# Ignore Python cache files
+*.__pycache__/
+
+# Ignoring Storage 
+storage
+
+# Ignore other files and directories
+*.pyc
+*.pyo
+*.pyd
+*.swp
+.DS_Store
+.idea/
+.vscode/
