@@ -4,8 +4,10 @@
 # Ignore Python cache files
 *.__pycache__/
 
-# Ignoring Storage 
-storage
+# Ignoring folder
+storage/
+routes/
+
 
 # Ignore other files and directories
 *.pyc
@@ -15,3 +17,6 @@ storage
 .DS_Store
 .idea/
 .vscode/
+
+*.db
+*.sqlite3
